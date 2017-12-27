@@ -40,11 +40,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - First Class Hons
 - Other cool stuff
 
-#### Any other qualifications
+#### Graduate Teacher Programme (2009-10)
+
+- Provided by The Latymer School & Alexandra Park School
+- One academic year spent increasing taught timetable from 50% to 80%
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Alexandra Park School** (2010-2017)    
+*Maths Teacher i/c Teaching & Learning*
+
+**MVA** (2006-2008, summer university holidays)   
+*Junior Analyst*  
