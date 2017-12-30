@@ -1,3 +1,5 @@
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+
 ## Jennifer Shepherd
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
@@ -34,24 +36,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Graduate Teacher Programme (2009-10)
+
+- Provided by The Latymer School & Alexandra Park School
+- One academic year spent increasing taught timetable from 50% to 80%
+
 #### Nottingham University (2006-2009)
 
 - Maths with Statistics BSc
 - First Class Hons
 - Other cool stuff
 
-#### Graduate Teacher Programme (2009-10)
-
-- Provided by The Latymer School & Alexandra Park School
-- One academic year spent increasing taught timetable from 50% to 80%
-
 ## Experience
 
 **Alexandra Park School** (2010-2017)    
 *Maths Teacher i/c Teaching & Learning*
 
-**MVA** (2006-2008, summer university holidays)   
+**MVA** (2006-2008)   
 *Junior Analyst*  
+
+## Interests
+- Road Cycling
+- Travel 
+- Books
+- Writing
 
 ## Contact
 - Github: maireadjenn
