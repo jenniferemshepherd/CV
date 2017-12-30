@@ -51,7 +51,6 @@ In May 2016 I was approached to take a charity place in RideLondon (100 miles). 
 
 **Alexandra Park School** (2010-2017)    
 *Maths Teacher i/c Teaching & Learning*
-
 I led independent research into innovative teaching and learning methods. As a result, I developed the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
 
 **MVA** (2006-2008)   
@@ -59,12 +58,11 @@ I led independent research into innovative teaching and learning methods. As a r
 Analysed data to monitor the impact of the Congestion Charging Zone.  Wrote reports and adjusted models for various other transport projects including parking restrictions and LTS (London Transportation Studies).
 
 ## Interests
-
-- Travel??
+- Road Cycling
+- Travel: specific interest in mountains (see above!) and the Middle East
 - Books
 - Writing
-- Mental Wellbeing
-- Road Cycling 
+- Mental Wellbeing: Yoga, mindfulness, meditation
 - Strength & Conditioning
 
 ## Contact
