@@ -12,7 +12,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 I love learning and improving.  In the last few years I have explored cycling, creative writing, coding, .  As a teacher, I researched and tried new strategies, from making time gains through efficient resource distribution or making *students* think more through peer assessment.
 I do weekly strength and conditioning work and the first step fascinates me: develop my neurological pathways to learn how to perform physical movements properly.  My proficiency improves faster from this than any muscle growth.
 
-## Maths and Logic
+#### Maths and Logic
 I've always loved Problem Solving, completing 15 A Level modules in the subject (leaving school with 2.5 Maths A Levels).  In my first 2 years teaching I was Gifted&Talented Co-ordinator, organising the popular Maths Challenge and puzzle days with neighbouring schools.
 
 #### Verbal Communication
