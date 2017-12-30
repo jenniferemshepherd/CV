@@ -14,7 +14,7 @@ I do weekly strength and conditioning work and the first step fascinates me: dev
 
 #### Excellent Verbal Communicator
 
-Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy.  I developed modules that developed talk by scaffolding speech through the use of connectives and other grammatical tools.  During this time I really critiqued my own communication and assessed the devices I use to ensure clarity for those listening.  I needed to make choices in .
+Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy.  I developed modules that developed talk by scaffolding speech through the use of connectives and other grammatical tools.  During this time I really critiqued my own communication and assessed the devices I use to ensure clarity for those listening.
 
 #### Excellent Written Communicator
 
@@ -30,7 +30,6 @@ In May 2016 I was approached to take a charity place in RideLondon (100 miles). 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -64,7 +63,7 @@ I led independent research into innovative teaching and learning methods. As a r
 - Writing
 - Mental Wellbeing
 - Road Cycling 
-- Strength & Conditioning: I started this to balance the cycling and look after my body off the bike to improve performance on the bike.  I am particularly interested in neural...
+- Strength & Conditioning
 
 ## Contact
 - Github: maireadjenn
