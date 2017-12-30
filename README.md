@@ -1,6 +1,6 @@
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
-
 ## Jennifer Shepherd
+
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
 I am a full stack Ruby developer.
 
