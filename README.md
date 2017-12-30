@@ -2,9 +2,9 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
-I am a full stack Ruby developer.
+I love learning and spent 8 years working in London secondary schools and training staff in Haringey.  I began my journey in coding with Harvard's CS50 online course in 2017 before switching to Ruby ahead of applying to Makers Academy and was selected as a fellowship student from a highly competitive field.  
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
 
 ## Skills
 
@@ -43,8 +43,7 @@ In May 2016 I was approached to take a charity place in RideLondon (100 miles). 
 
 #### Nottingham University (2006-2009)
 
-- Maths with Statistics BSc
-- First Class Hons
+- Maths with Statistics BSc (First Class Hons)
 - Led a team fortnightly on the city's evening Soup Run.
 
 ## Experience
@@ -59,10 +58,10 @@ Analysed data to monitor the impact of the Congestion Charging Zone.  Wrote repo
 
 ## Interests
 - Road Cycling
-- Travel: specific interest in mountains (see above!) and the Middle East
+- Travel: especially mountains (walking/cycling) and the Middle East
 - Books
 - Writing
-- Mental Wellbeing: Yoga, mindfulness, meditation
+- Mental Wellbeing: yoga, mindfulness, meditation
 - Strength & Conditioning
 
 ## Contact
