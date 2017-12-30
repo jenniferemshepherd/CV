@@ -53,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **MVA** (2006-2008, summer university holidays)   
 *Junior Analyst*  
 
-##Contact
+## Contact
 - Github: maireadjenn
 - Codewars: http://www.codewars.com/users/maireadjenn
 - LinkedIn: www.linkedin.com/in/jennifer-em-shepherd
