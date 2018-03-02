@@ -12,7 +12,8 @@
 </p>
 
 <p align="center">
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | </p>
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+</p>
 
 
 
