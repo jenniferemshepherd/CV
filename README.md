@@ -6,6 +6,15 @@ I love learning and spent 8 years working in London secondary schools and traini
 
 I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
 
+## PROJECTS
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+| 1. Boris bikes in Ruby ([Github](https://github.com/Alicespyglass/boris-bikes)) | My first week of coding at Makers academy. Compare it to other projects to see how far I've come. |Ruby | RSpec |
+| 2. Find My Train ([Github](https://github.com/Alicespyglass/wk9-group-practice-project-Trainspotting))|Ever wondered which train you're on and needed to let someone know when you'd get to a station? Group project to build a web app to do just that in one week. | Javascript, Bootstrap, NodeJS, Heroku, APIs (Geolocator, Transport, WhatsApp) | Jasmine, Mocha |
+| 3. Makers B'n'B ([Github](https://github.com/Alicespyglass/makers-bnb))| 4 developers with 5 weeks' experience modelling a website on an online business valued at $30bn. Challenge accepted. | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara, Coveralls |
+| 4. Elocution with Alexa ([Github](https://github.com/Alicespyglass/alexa1-hello-world))| A play with voice technology by building a skill on Amazon Echo. | Ruby, Sinatra, Amazon Alexa skills kit  | Echosim.io |
+| 5. Middl ([Github](https://github.com/Alicespyglass/middl)) | An iOS app to find the best meeting places halfway between friends. Final group project at Makers. | Javascript, React-Native, JSX, Xcode, APIs (Google maps, WhatsApp) | Jest | 
+
 ## Skills
 
 #### Eager Learner
@@ -68,3 +77,16 @@ Analysed data to monitor the impact of the Congestion Charging Zone.  Wrote repo
 - Github: maireadjenn
 - Codewars: http://www.codewars.com/users/maireadjenn
 - LinkedIn: www.linkedin.com/in/jennifer-em-shepherd
+
+## NETWORKS AND MEDIA
+<p align="center">
+<a href="https://twitter.com/Alicespyglass">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+
+<a href="https://medium.com/@alicespyglass">
+<img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/alicespyglass/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
