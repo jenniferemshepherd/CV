@@ -13,7 +13,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </p>
 
-I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I began my journey in coding with Harvard's CS50 online course in 2017 before switching to Ruby ahead of applying to Makers Academy and was selected as a fellowship student from a highly competitive field.  
+I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I began to explore coding via Harvard's CS50 online course in 2017 before switching to Ruby ahead of applying to Makers Academy and was selected as a fellowship student from a highly competitive field.  
 
 I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
 
@@ -21,10 +21,13 @@ I'm excited to explore a new industry and learn from a progressive workplace at 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
 | 1. Boris bikes in Ruby ([Github](https://github.com/Alicespyglass/boris-bikes)) | My first week of coding at Makers academy. Compare it to other projects to see how far I've come. |Ruby | RSpec |
-| 2. Find My Train ([Github](https://github.com/Alicespyglass/wk9-group-practice-project-Trainspotting))|Ever wondered which train you're on and needed to let someone know when you'd get to a station? Group project to build a web app to do just that in one week. | Javascript, Bootstrap, NodeJS, Heroku, APIs (Geolocator, Transport, WhatsApp) | Jasmine, Mocha |
-| 3. Makers B'n'B ([Github](https://github.com/Alicespyglass/makers-bnb))| 4 developers with 5 weeks' experience modelling a website on an online business valued at $30bn. Challenge accepted. | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara, Coveralls |
-| 4. Elocution with Alexa ([Github](https://github.com/Alicespyglass/alexa1-hello-world))| A play with voice technology by building a skill on Amazon Echo. | Ruby, Sinatra, Amazon Alexa skills kit  | Echosim.io |
-| 5. Middl ([Github](https://github.com/Alicespyglass/middl)) | An iOS app to find the best meeting places halfway between friends. Final group project at Makers. | Javascript, React-Native, JSX, Xcode, APIs (Google maps, WhatsApp) | Jest | 
+| 2.  ([Github](https://github.com/jenniferemshepherd/))| Summary | Tech |  |
+| 3. Makers B'n'B ([Github](https://github.com/jenniferemshepherd/))| 4 developers with 5 weeks' experience modelling a website on an online business valued at $30bn. Challenge accepted. | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara |
+| 4. Edje-Notes ([Github](https://github.com/jenniferemshepherd/))| Summary | Tech  | Testing |
+| 5. FINAL GROUP PROJECT ([Github](https://github.com/jenniferemshepherd/)) | Summary | Technologies | Testing |
+
+Bowling Challenge
+News Summary App?
 
 ## Skills
 
@@ -57,9 +60,9 @@ In May 2016 I was approached to take a charity place in RideLondon (100 miles). 
 - RSpec, Jasmine
 
 #### Graduate Teacher Programme (2009-10)
+ITT at The Latymer School, Edmonton
 
 #### Nottingham University (2006-2009)
-
 - Maths with Statistics BSc (First Class Hons)
 - Led a team fortnightly on the city's evening Soup Run for the homeless.
 
@@ -67,11 +70,11 @@ In May 2016 I was approached to take a charity place in RideLondon (100 miles). 
 
 **Alexandra Park School** (2010-2017)    
 *Maths Teacher i/c Teaching & Learning*
-I led research into innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
+I led research on innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
 
 **MVA** (2006-2008)   
 *Junior Analyst - Transport Consultancy*  
-Key Skills:
+_Key Skills: time management,_
 
 ## Interests
 - Road Cycling
