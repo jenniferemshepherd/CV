@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-([Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+([Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |)
 </p>
 
 I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I began to explore coding via Harvard's CS50 online course in 2017 before switching to Ruby ahead of applying to Makers Academy and was selected as a fellowship student from a highly competitive field.  
