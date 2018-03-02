@@ -12,12 +12,10 @@
 </p>
 
 <div class="align-center">
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [[Interests](#interests) | [Education](#education) | [Experience](#experience)
 </div>
 
-I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I began to explore coding via Harvard's CS50 online course in 2017 before switching to Ruby ahead of applying to Makers Academy and was selected as a fellowship student from a highly competitive field.  
-
-I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
+I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I was selected as a fellowship student from a highly competitive field.  I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
 
 ## PROJECTS
 | Project       | Summary       | Technologies  | Testing |
@@ -33,26 +31,28 @@ News Summary App?
 
 ## Skills
 
-#### Eager Learner
-I love learning and improving.  In the last few years I have explored cycling, creative writing, coding, .  As a teacher, I researched and tried new strategies, from making time gains through efficient resource distribution or making *students* think more through peer assessment.
-I do weekly strength and conditioning work and the first step fascinates me: develop my neurological pathways to learn how to perform physical movements properly.  My proficiency improves faster from this than any muscle growth.
-
 #### Maths and Logic
-I've always loved Problem Solving, completing 15 A Level modules in the subject (leaving school with 2.5 Maths A Levels).  In my first 2 years teaching I was Gifted&Talented Co-ordinator, organising the popular Maths Challenge and puzzle days with neighbouring schools.
+#### Eager Learner
+I love reflecting and improving.
+#### Written Communication
+My most recent project was a writing course.
 
 #### Verbal Communication
-I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy.  I developed modules that developed talk by scaffolding speech through the use of connectives and other grammatical tools.  During this time I really critiqued my own communication and assessed the devices I use to ensure clarity for those listening.
-
-#### Written Communication
-DBAW course
+Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy.
 
 #### Disciplined
-In May 2016 I was approached to take a charity place in RideLondon (100 miles).  I took up road cycling and began training; I joined Islington Cycle Club to find a community to learn with. 6 weeks later I had ridden coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden track at the Olympic Velodrome, several Tour de France climbs, Manchester -> London, London -> Amsterdam and many other epic climbs in Spain and the High Tatras, all self-supported.  In **December 2016** I won the club award for **Most Improved Rider**.
+In May 2016 I was approached to take a charity place in RideLondon (100 miles).  I took up road cycling and began training; I joined Islington Cycle Club to find a community to learn with. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden track at the Olympic Velodrome, several Tour de France climbs, Manchester -> London, London -> Amsterdam and many other epic climbs in Spain and the High Tatras, all self-supported.  In **December 2016** I won the club award for **Most Improved Rider**.
+
+## Interests
+- Road Cycling
+- Writing
+- Mental Wellbeing: yoga, mindfulness, meditation
+- Strength & Conditioning
+- Social justice and promoting equality
 
 ## Education
 
 #### Makers Academy (November 2017 - March 2018)
-
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
@@ -73,15 +73,8 @@ ITT at The Latymer School, Edmonton
 **Alexandra Park School** (2010-2017)    
 *Maths Teacher i/c Teaching & Learning*
 I led research on innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
+_key skills: team leading_
 
 **MVA** (2006-2008)   
 *Junior Analyst - Transport Consultancy*  
 _Key Skills: time management,_
-
-## Interests
-- Road Cycling
-- Travel: especially mountains (walking/cycling) and the Middle East
-- Writing
-- Mental Wellbeing: yoga, mindfulness, meditation
-- Strength & Conditioning
-- Social justice and promoting equality
