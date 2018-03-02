@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
-I love learning and spent 8 years working in London secondary schools and training staff in Haringey.  I began my journey in coding with Harvard's CS50 online course in 2017 before switching to Ruby ahead of applying to Makers Academy and was selected as a fellowship student from a highly competitive field.  
+I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I began my journey in coding with Harvard's CS50 online course in 2017 before switching to Ruby ahead of applying to Makers Academy and was selected as a fellowship student from a highly competitive field.  
 
 I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
 
@@ -38,33 +38,30 @@ In May 2016 I was approached to take a charity place in RideLondon (100 miles). 
 
 #### Graduate Teacher Programme (2009-10)
 
-- Provided by The Latymer School & Alexandra Park School
-- One academic year spent increasing taught timetable from 50% to 80%, including GCSE and A-Level classes
-
 #### Nottingham University (2006-2009)
 
 - Maths with Statistics BSc (First Class Hons)
-- Led a team fortnightly on the city's evening Soup Run.
+- Led a team fortnightly on the city's evening Soup Run for the homeless.
 
 ## Experience
 
 **Alexandra Park School** (2010-2017)    
 *Maths Teacher i/c Teaching & Learning*
-I led independent research into innovative teaching and learning methods. As a result, I developed the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
+I led research into innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
 
 **MVA** (2006-2008)   
-*Junior Analyst*  
-Analysed data to monitor the impact of the Congestion Charging Zone.  Wrote reports and adjusted models for various other transport projects including parking restrictions and LTS (London Transportation Studies).
+*Junior Analyst - Transport Consultancy*  
+Key Skills:
 
 ## Interests
 - Road Cycling
 - Travel: especially mountains (walking/cycling) and the Middle East
-- Books
 - Writing
 - Mental Wellbeing: yoga, mindfulness, meditation
 - Strength & Conditioning
+- Social justice and promoting equality
 
 ## Contact
-- Github: maireadjenn
+- Github: jenniferemshepherd
 - Codewars: http://www.codewars.com/users/maireadjenn
 - LinkedIn: www.linkedin.com/in/jennifer-em-shepherd
