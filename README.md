@@ -21,12 +21,11 @@ I love learning and spent 8 years teaching in London secondary schools and train
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
 | 1. Boris bikes in Ruby ([Github](https://github.com/Alicespyglass/boris-bikes)) | My first week of coding at Makers academy. Compare it to other projects to see how far I've come. |Ruby | RSpec |
-| 2.  ([Github](https://github.com/jenniferemshepherd/))| Summary | Tech |  |
+| 2.  Bowling Challenge in Javascript ([Github](https://github.com/jenniferemshepherd/bowling-challenge))| Summary | Tech |  |
 | 3. Makers B'n'B ([Github](https://github.com/jenniferemshepherd/))| 4 developers with 5 weeks' experience modelling a website on an online business valued at $30bn. Challenge accepted. | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara |
-| 4. Edje-Notes ([Github](https://github.com/jenniferemshepherd/))| Summary | Tech  | Testing |
+| 4. jennifer.js ([Github](https://github.com/jenniferemshepherd/jennifer.js))| We built our own vanilla JavaScript testing framework that we then used to test drive a single page web app | JavaScript, basic http-server | jennifer test framework (modelled on jasmine.js) |
 | 5. FINAL GROUP PROJECT ([Github](https://github.com/jenniferemshepherd/)) | Summary | Technologies | Testing |
 
-Bowling Challenge
 News Summary App?
 
 ## Skills
@@ -62,7 +61,7 @@ In May 2016 I was approached to take a charity place in RideLondon (100 miles). 
 - RSpec, Jasmine
 
 #### Graduate Teacher Programme (2009-10)
-ITT at The Latymer School, Edmonton
+- ITT at The Latymer School, Edmonton
 
 #### Nottingham University (2006-2009)
 - Maths with Statistics BSc (First Class Hons)
