@@ -11,22 +11,18 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </p>
 
-<div class="align-center">
 [Skills](#skills) | [[Interests](#interests) | [Education](#education) | [Experience](#experience)
-</div>
 
 I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I was selected as a fellowship student from a highly competitive field.  I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
 
 ## PROJECTS
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-| 1. Boris bikes in Ruby ([Github](https://github.com/Alicespyglass/boris-bikes)) | My first week of coding at Makers academy. Compare it to other projects to see how far I've come. |Ruby | RSpec |
-| 2.  Bowling Challenge in Javascript ([Github](https://github.com/jenniferemshepherd/bowling-challenge))| Summary | Tech |  |
-| 3. Makers B'n'B ([Github](https://github.com/jenniferemshepherd/))| 4 developers with 5 weeks' experience modelling a website on an online business valued at $30bn. Challenge accepted. | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara |
+| 1. Boris bikes in Ruby ([Github](https://github.com/jenniferemshepherd/Boris-Bikes-Day-3)) | My first 3 days of coding at Makers academy. I've come far! |Ruby | RSpec |
+| 2.  Bowling Challenge in Javascript ([Github](https://github.com/jenniferemshepherd/bowling-challenge))| My favourite weekend challenge because it really forced me to think.  An ongoing exploration of javascript, testing and OO | Javascript | Jasmine  |
+| 3. Makers B'n'B ([Github](https://github.com/jenniferemshepherd/strength-bnb))| First team project which drew together all the skills we have learned so far.  My (un)willingness to give feedback was tested! | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara |
 | 4. jennifer.js ([Github](https://github.com/jenniferemshepherd/jennifer.js))| We built our own vanilla JavaScript testing framework that we then used to test drive a single page web app | JavaScript, basic http-server | jennifer test framework (modelled on jasmine.js) |
-| 5. FINAL GROUP PROJECT ([Github](https://github.com/jenniferemshepherd/)) | Summary | Technologies | Testing |
-
-News Summary App?
+| 5. FINAL GROUP PROJECT ([Github](https://github.com/jenniferemshepherd/dawn)) | Summary | Technologies | Testing |
 
 ## Skills
 
