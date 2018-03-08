@@ -11,7 +11,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </p>
 
-[Skills](#skills) | [[Interests](#interests) | [Education](#education) | [Experience](#experience)
+[Skills](#skills) | [Interests](#interests) | [Education](#education) | [Experience](#experience)
 
 I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I was selected as a fellowship student from a highly competitive field.  I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
 
@@ -26,11 +26,11 @@ I love learning and spent 8 years teaching in London secondary schools and train
 
 ## Skills
 
-*Maths and Logic*
-*Eager Learner:* _I love reflecting and improving_
-*Written Communication:* _My most recent project was a writing course_
-*Verbal Communication:* _Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy_
-*Disciplined:* _In May 2016 I was approached to take a charity place in RideLondon (100 miles).  I took up road cycling and began training; I joined Islington Cycle Club to find a community to learn with. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden track at the Olympic Velodrome, several Tour de France climbs, Manchester -> London, London -> Amsterdam and many other epic climbs in Spain and the High Tatras, all self-supported.  In **December 2016** I won the club award for **Most Improved Rider**_
+####*Maths and Logic*
+####*Eager Learner:* _I love reflecting and improving_
+####*Written Communication:* _My most recent project was a writing course_
+####*Verbal Communication:* _Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy_
+####*Disciplined:* _In May 2016 I was approached to take a charity place in RideLondon (100 miles).  I took up road cycling and began training; I joined Islington Cycle Club to find a community to learn with. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden track at the Olympic Velodrome, several Tour de France climbs, Manchester -> London, London -> Amsterdam and many other epic climbs in Spain and the High Tatras, all self-supported.  In **December 2016** I won the club award for **Most Improved Rider**_
 
 ## Interests
 - Road Cycling
