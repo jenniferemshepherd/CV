@@ -1,7 +1,6 @@
 ## Jennifer Shepherd
 
-<p align="center"> </p>
-<p>
+<p align="center">
 <a href="https://twitter.com/teachlearncode">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
 
@@ -9,8 +8,7 @@
 <img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.linkedin.com/in/jennifer-em-shepherd/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-</p>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 [Skills](#skills) | [Interests](#interests) | [Education](#education) | [Experience](#experience)
 
@@ -55,21 +53,13 @@ _In May 2016 I was approached to take a charity place in RideLondon (100 miles).
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Graduate Teacher Programme (2009-10)
-- ITT at The Latymer School, Edmonton
+#### Graduate Teacher Programme (2009-10) : - ITT at The Latymer School, Edmonton
 
-#### Nottingham University (2006-2009)
-- Maths with Statistics BSc (First Class Hons)
-- Led a team fortnightly on the city's evening Soup Run for the homeless.
+#### Nottingham University (2006-2009) : - Maths with Statistics BSc (First Class Hons)
 
 ## Experience
 
 **Alexandra Park School** (2010-2017)    
-*Maths Teacher i/c Teaching & Learning*
+Maths Teacher i/c Teaching & Learning
 I led research on innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
-
-_key skills: team leading_
-
-**MVA** (2006-2008)   
-*Junior Analyst - Transport Consultancy*  
-_Key Skills: time management,_
+_key skills: team leading, time_management, presenting, explanationing, questioning_
