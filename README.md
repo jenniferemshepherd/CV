@@ -53,13 +53,15 @@ _In May 2016 I was approached to take a charity place in RideLondon (100 miles).
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Graduate Teacher Programme (2009-10) : - ITT at The Latymer School, Edmonton
+#### Graduate Teacher Programme (2009-10) : ITT at The Latymer School, Edmonton
 
-#### Nottingham University (2006-2009) : - Maths with Statistics BSc (First Class Hons)
+#### Nottingham University (2006-2009) : Maths with Statistics BSc (First Class Hons)
 
 ## Experience
 
 **Alexandra Park School** (2010-2017)    
 Maths Teacher i/c Teaching & Learning
+
 I led research on innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
+
 _key skills: team leading, time_management, presenting, explanationing, questioning_
