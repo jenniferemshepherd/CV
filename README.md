@@ -12,16 +12,17 @@
 
 [Skills](#skills) | [Projects](#projects) |[Interests](#interests) | [Education](#education) | [Experience](#experience)
 
-I'm obsessed with learning and strive to do so in the most effective and efficient ways. I've challenged myself in both respects whilst as a teacher for 8 years and most recently through Makers Academy.  I was selected as a fellowship student from a highly competitive field and am excited to explore a new industry having learned from such a progressive workplace at Makers.  I'm looking to continue learning somewhere I can develop in a similar way.
+I'm obsessed with learning and strive to find the most effective and efficient ways in which to do so. I've challenged myself in both respects whilst as a teacher for 8 years and most recently through Makers Academy.  Selected as a fellowship student from a competitive field, I'm excited to explore this new industry having learned from such a progressive workplace at Makers.  I'm keen to continue learning somewhere that I can develop in a similar way.
 
 ## Skills
 
-#### Maths and Logic
-#### Eager Learner:
-I love reflecting and improving.
-#### Written Communication:
-My most recent learning side project was a writing course.
-#### Verbal Communication:
+#### *Maths and Logic*
+I have a strong mathematical background, both as a first class Maths undergraduate and as a teacher. I enjoy the logical challenges that coding presents.
+#### *Eager Learner:*
+I love reflecting and improving.  It might be writing cleaner code or finding better ways to communicate amongst team members. Experiences from my most recent project, Dawn, can be read ([on our blog](https://medium.com/@dawnmakersacademy/to-mob-or-not-to-mob-52f16e82bc2e).
+#### *Written Communication:*
+8 years of teaching honed my ability to interact effectively with students, parents and colleagues alike. I further developed these skills whilst pair programming at Makers where I encouraged giving and receiving feedback. I deepened my ability to use language in a persuasive and captivating way through a part-time creative writing course undertaken in late 2017.
+#### *Verbal Communication:*
 Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy.
 #### *Disciplined:*
 In May 2016 I was asked to cycle RideLondon (100 miles) in July.  I took up road cycling and began training; I joined Islington Cycle Club to learn with a community. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden on the track at the Olympic Velodrome, several Tour de France climbs, from Manchester -> London and from London -> Amsterdam, all self-supported.  In December 2016 I won the club award for **Most Improved Rider**.
