@@ -1,4 +1,4 @@
-## Jennifer Shepherd
+<h2 align="center"> Jennifer </h2>
 
 <p align="center">
 <a href="https://twitter.com/teachlearncode">
@@ -10,7 +10,9 @@
 <a href="https://www.linkedin.com/in/jennifer-em-shepherd/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-[Skills](#skills) | [Projects](#projects) |[Interests](#interests) | [Education](#education) | [Experience](#experience)
+<p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> |  |  <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> </p>
+
+<!-- [Skills](#skills) | [Projects](#projects) |[Interests](#interests) | [Education](#education) | [Experience](#experience) -->
 
 I'm obsessed with learning and strive to find the most effective and efficient ways in which to do so. I've challenged myself in both respects whilst as a teacher for 8 years and most recently through Makers Academy.  Selected as a fellowship student from a competitive field, I'm excited to explore this new industry having learned from such a progressive workplace at Makers.  I'm keen to continue learning somewhere that I can develop in a similar way.
 
