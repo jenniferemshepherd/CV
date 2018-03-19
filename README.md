@@ -12,7 +12,20 @@
 
 [Skills](#skills) | [Projects](#projects) |[Interests](#interests) | [Education](#education) | [Experience](#experience)
 
-I love learning and spent 8 years teaching in London secondary schools and training staff in Haringey.  I was selected as a fellowship student from a highly competitive field.  I'm excited to explore a new industry and learn from a progressive workplace at Makers, and hope to work somewhere I can further develop in a similar way.
+I'm obsessed with learning and strive to do so in the most effective and efficient ways. I've challenged myself in both respects whilst as a teacher for 8 years and most recently through Makers Academy.  I was selected as a fellowship student from a highly competitive field and am excited to explore a new industry having learned from such a progressive workplace at Makers.  I'm looking to continue learning somewhere I can develop in a similar way.
+
+## Skills
+
+#### Maths and Logic
+#### Eager Learner:
+_I love reflecting and improving_
+#### Written Communication:
+_My most recent learning side project was a writing course_
+#### Verbal Communication:
+_Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy_
+#### *Disciplined:*
+_In May 2016 I was approached to take a charity place in RideLondon (100 miles).  I took up road cycling and began training; I joined Islington Cycle Club to find a community to learn with. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden track at the Olympic Velodrome, several Tour de France climbs, Manchester -> London, London -> Amsterdam and many other epic climbs in Spain and the High Tatras, all self-supported.  In **December 2016** I won the club award for **Most Improved Rider**_
+
 
 ## PROJECTS
 | Project           | Summary       | Technologies  | Testing |
@@ -22,18 +35,6 @@ I love learning and spent 8 years teaching in London secondary schools and train
 | 3. Makers B'n'B ([Github](https://github.com/jenniferemshepherd/strength-bnb))| Air BnB clone: First team project which drew together all the skills we have learned so far.  My (un)willingness to give feedback was tested! | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara |
 | 4. jennifer.js ([Github](https://github.com/jenniferemshepherd/jennifer.js))| We built our own vanilla JavaScript testing framework | JavaScript, basic http-server | jennifer.js test framework (modelled on jasmine.js) |
 | 5. dawn ([Github](https://github.com/jenniferemshepherd/dawn)) | Final Project: A procedurally-generated socio-genetic simulation ([huh?](https://medium.com/@dawnmakersacademy/final-project-day-2-a74065a51441)) | Javascript, Matter.js, p5 | Jasmine |
-
-## Skills
-
-#### Maths and Logic
-#### Eager Learner:
-_I love reflecting and improving_
-#### Written Communication:
-_My most recent project was a writing course_
-#### Verbal Communication:
-_Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy_
-#### *Disciplined:*
-_In May 2016 I was approached to take a charity place in RideLondon (100 miles).  I took up road cycling and began training; I joined Islington Cycle Club to find a community to learn with. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden track at the Olympic Velodrome, several Tour de France climbs, Manchester -> London, London -> Amsterdam and many other epic climbs in Spain and the High Tatras, all self-supported.  In **December 2016** I won the club award for **Most Improved Rider**_
 
 ## Interests
 - Road Cycling
@@ -45,11 +46,12 @@ _In May 2016 I was approached to take a charity place in RideLondon (100 miles).
 ## Education
 
 #### Makers Academy (November 2017 - March 2018)
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-- OOP, TDD, MVC, DDD
+- Curious about code: I continued working on weekend projects beyond their deadline to consolidate my knowledge, understanding and application of what we had learned.
+- Fast, independent learner - despite no background in coding
+- Great collaborator: experienced in pair programming and delivering/receiving feedback
 - Agile/XP
+- Meticulous Test Driven Developer
+- OOP, MV
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
@@ -64,4 +66,4 @@ Maths Teacher i/c Teaching & Learning
 
 I led research on innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
 
-_key skills: team leading, time_management, presenting, explanationing, questioning_
+_key skills: team leading, time_management, presenting, explaining, questioning_
