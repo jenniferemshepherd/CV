@@ -19,7 +19,7 @@ I'm obsessed with learning and strive to find the most effective and efficient w
 #### *Maths and Logic*
 I have a strong mathematical background, both as a first class Maths undergraduate and as a teacher. I enjoy the logical challenges that coding presents.
 #### *Eager Learner:*
-I love reflecting and improving.  It might be writing cleaner code or finding better ways to communicate amongst team members. Experiences from my most recent project, Dawn, can be read ([on our blog](https://medium.com/@dawnmakersacademy/to-mob-or-not-to-mob-52f16e82bc2e).
+I love reflecting and improving.  It might be writing cleaner code or finding better ways to communicate amongst team members. Experiences from my most recent project, Dawn, can be read [on our blog](https://medium.com/@dawnmakersacademy/to-mob-or-not-to-mob-52f16e82bc2e).
 #### *Written Communication:*
 8 years of teaching honed my ability to interact effectively with students, parents and colleagues alike. I further developed these skills whilst pair programming at Makers where I encouraged giving and receiving feedback. I deepened my ability to use language in a persuasive and captivating way through a part-time creative writing course undertaken in late 2017.
 #### *Verbal Communication:*
@@ -68,4 +68,4 @@ Maths Teacher i/c Teaching & Learning
 
 I led research on innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
 
-_key skills: team leading, time_management, presenting, explaining, questioning_
+_key skills: team leading, time management, presenting, explaining, questioning_
