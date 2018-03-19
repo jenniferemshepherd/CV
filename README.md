@@ -18,18 +18,19 @@ I'm obsessed with learning and strive to do so in the most effective and efficie
 
 #### Maths and Logic
 #### Eager Learner:
-_I love reflecting and improving_
+I love reflecting and improving.
 #### Written Communication:
-_My most recent learning side project was a writing course_
+My most recent learning side project was a writing course.
 #### Verbal Communication:
-_Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy_
+Whilst teaching I honed the ability to ask questions that would tease out misconceptions from my students and clarify the direction their learning needed to take next (and thus what was required of me).  I loved finding innovative ways to communicate an idea or subject content and encouraged students in their oracy.
 #### *Disciplined:*
-_In May 2016 I was approached to take a charity place in RideLondon (100 miles).  I took up road cycling and began training; I joined Islington Cycle Club to find a community to learn with. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden track at the Olympic Velodrome, several Tour de France climbs, Manchester -> London, London -> Amsterdam and many other epic climbs in Spain and the High Tatras, all self-supported.  In **December 2016** I won the club award for **Most Improved Rider**_
+In May 2016 I was asked to cycle RideLondon (100 miles) in July.  I took up road cycling and began training; I joined Islington Cycle Club to learn with a community. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden on the track at the Olympic Velodrome, several Tour de France climbs, from Manchester -> London and from London -> Amsterdam, all self-supported.  In December 2016 I won the club award for **Most Improved Rider**.
 
 
-## PROJECTS
-| Project           | Summary       | Technologies  | Testing |
-| ----------------- |---------------| --------------|---------|
+## Projects
+
+| Project              | Summary     | Technologies  | Testing |
+| -------------------- |-------------| --------------|---------|
 | 1. Boris Bikes in Ruby ([Github](https://github.com/jenniferemshepherd/Boris-Bikes-Day-3)) | My first 3 days of coding at Makers academy... I've come a long way but I'm still proud of this! |Ruby | RSpec |
 | 2.  Bowling Challenge in Javascript ([Github](https://github.com/jenniferemshepherd/bowling-challenge))| Interactive bowling scorecard: My favourite weekend challenge because it really forced me to think.  An ongoing exploration of javascript, testing and OO... | Javascript | Jasmine  |
 | 3. Makers B'n'B ([Github](https://github.com/jenniferemshepherd/strength-bnb))| Air BnB clone: First team project which drew together all the skills we have learned so far.  My (un)willingness to give feedback was tested! | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara |
@@ -40,14 +41,14 @@ _In May 2016 I was approached to take a charity place in RideLondon (100 miles).
 - Road Cycling
 - Writing
 - Mental Wellbeing: yoga, mindfulness, meditation
-- Strength & Conditioning
 - Social justice and promoting equality
+- Strength & Conditioning
 
 ## Education
 
 #### Makers Academy (November 2017 - March 2018)
 - Curious about code: I continued working on weekend projects beyond their deadline to consolidate my knowledge, understanding and application of what we had learned.
-- Fast, independent learner - despite no background in coding
+- Fast, independent learner: proactive in learning what was needed for  weekend challenge deadlines met punctually
 - Great collaborator: experienced in pair programming and delivering/receiving feedback
 - Agile/XP
 - Meticulous Test Driven Developer
