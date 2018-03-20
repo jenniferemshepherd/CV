@@ -1,4 +1,4 @@
-<h2 align="center"> Jennifer </h2>
+<h2 align="center"> Jennifer Shepherd </h2>
 
 <p align="center">
 <a href="https://twitter.com/teachlearncode">
@@ -12,9 +12,7 @@
 
 <p align="center"> <a href='#skills'>Skills</a> | <a href='#projects'>Projects</a> |  |  <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> </p>
 
-<!-- [Skills](#skills) | [Projects](#projects) |[Interests](#interests) | [Education](#education) | [Experience](#experience) -->
-
-I'm obsessed with learning and strive to find the most effective and efficient ways in which to do so. I've challenged myself in both respects whilst as a teacher for 8 years and most recently through Makers Academy.  Selected as a fellowship student from a competitive field, I'm excited to explore this new industry having learned from such a progressive workplace at Makers.  I'm keen to continue learning somewhere that I can develop in a similar way.
+I'm obsessed with learning and strive to find the most effective and efficient ways in which to do so. I've challenged myself in both respects whilst as a teacher for 8 years and most recently through Makers Academy.  Selected as a fellowship student from a competitive field, I'm excited to explore this new industry having learned from such a progressive workplace at Makers.  I'm keen to continue developing somewhere that I can develop in a similar way.
 
 ## Skills
 
@@ -29,33 +27,26 @@ Whilst teaching I honed the ability to ask questions that would tease out miscon
 #### *Disciplined:*
 In May 2016 I was asked to cycle RideLondon (100 miles) in July.  I took up road cycling and began training; I joined Islington Cycle Club to learn with a community. 6 weeks later I cycled coast-to-coast (Morecambe -> Bridlington, 175miles). So far I've ridden on the track at the Olympic Velodrome, several Tour de France climbs, from Manchester -> London and from London -> Amsterdam, all self-supported.  In December 2016 I won the club award for **Most Improved Rider**.
 
-
 ## Projects
 
 | Project              | Summary     | Technologies  | Testing |
 | -------------------- |-------------| --------------|---------|
-| 1. Boris Bikes in Ruby ([Github](https://github.com/jenniferemshepherd/Boris-Bikes-Day-3)) | My first 3 days of coding at Makers academy... I've come a long way but I'm still proud of this! |Ruby | RSpec |
-| 2.  Bowling Challenge in Javascript ([Github](https://github.com/jenniferemshepherd/bowling-challenge))| Interactive bowling scorecard: My favourite weekend challenge because it really forced me to think.  An ongoing exploration of javascript, testing and OO... | Javascript | Jasmine  |
+| 1. dawn ([Github](https://github.com/jenniferemshepherd/dawn)) | Final Project: A procedurally-generated socio-genetic simulation ([huh?](https://medium.com/@dawnmakersacademy/final-project-day-2-a74065a51441)) | Javascript, Matter.js, p5 | Jasmine |
+| 2. jennifer.js ([Github](https://github.com/jenniferemshepherd/jennifer.js))| We built our own vanilla JavaScript testing framework | JavaScript, basic http-server | jennifer.js test framework (modelled on jasmine.js) |
 | 3. Makers B'n'B ([Github](https://github.com/jenniferemshepherd/strength-bnb))| Air BnB clone: First team project which drew together all the skills we have learned so far.  My (un)willingness to give feedback was tested! | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara |
-| 4. jennifer.js ([Github](https://github.com/jenniferemshepherd/jennifer.js))| We built our own vanilla JavaScript testing framework | JavaScript, basic http-server | jennifer.js test framework (modelled on jasmine.js) |
-| 5. dawn ([Github](https://github.com/jenniferemshepherd/dawn)) | Final Project: A procedurally-generated socio-genetic simulation ([huh?](https://medium.com/@dawnmakersacademy/final-project-day-2-a74065a51441)) | Javascript, Matter.js, p5 | Jasmine |
+| 4. Bowling Challenge in Javascript ([Github](https://github.com/jenniferemshepherd/bowling-challenge))| Interactive bowling scorecard: My favourite weekend challenge because it really forced me to think.  An ongoing exploration of javascript, testing and OO... | Javascript | Jasmine |
+| 5. Boris Bikes in Ruby ([Github](https://github.com/jenniferemshepherd/Boris-Bikes-Day-3)) | My first 3 days of coding at Makers academy... I've come a long way but I'm still proud of this! |Ruby | RSpec |
 
-## Interests
-- Road Cycling
-- Writing
-- Mental Wellbeing: yoga, mindfulness, meditation
-- Social justice and promoting equality
-- Strength & Conditioning
 
 ## Education
 
 #### Makers Academy (November 2017 - March 2018)
 - Curious about code: I continued working on weekend projects beyond their deadline to consolidate my knowledge, understanding and application of what we had learned.
-- Fast, independent learner: proactive in learning what was needed for  weekend challenge deadlines met punctually
+- Fast, independent learner: proactive in learning what was needed for each project at makers within the given timeframe; weekend challenge deadlines met punctually
 - Great collaborator: experienced in pair programming and delivering/receiving feedback
-- Agile/XP
+- Agile/XP - especially courage and communication
 - Meticulous Test Driven Developer
-- OOP, MV
+- OOP, MVC
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
@@ -71,3 +62,10 @@ Maths Teacher i/c Teaching & Learning
 I led research on innovative teaching and learning methods, developing the in-house CPD programme and staff learning intranet, delivered coordinated district-wide staff training, mentored students to foster a 'growth mindset', and overhauled the Performance Management System to bring it in line with best practice models.
 
 _key skills: team leading, time management, presenting, explaining, questioning_
+
+## Interests
+- Road Cycling
+- Writing
+- Mental Wellbeing: yoga, mindfulness, meditation
+- Social justice and promoting equality
+- Strength & Conditioning
